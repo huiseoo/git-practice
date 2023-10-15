@@ -1,0 +1,11 @@
+total 14K
+drwxr-xr-x 1 castl 197609   0 Oct 15 17:42 ./
+drwxr-xr-x 1 castl 197609   0 Oct 15 16:27 ../
+drwxr-xr-x 1 castl 197609   0 Oct 15 17:42 .git/
+-rw-r--r-- 1 castl 197609  20 Oct 15 17:39 .gitignore
+-rw-r--r-- 1 castl 197609   0 Oct 15 17:42 202334450_kimheeseo_1ab7.txt
+-rw-r--r-- 1 castl 197609 147 Oct 15 16:28 README.md
+-rw-r--r-- 1 castl 197609 121 Oct 15 16:34 file_list.txt
+-rw-r--r-- 1 castl 197609 289 Oct 15 16:51 hello_world
+-rw-r--r-- 1 castl 197609 492 Oct 15 17:09 history_command.txt
+-rw-r--r-- 1 castl 197609  45 Oct 15 17:02 new_words.txt
