@@ -3,6 +3,6 @@ class
 home
 new
 lecture
-\q
-\g
+exam
+lab
 
